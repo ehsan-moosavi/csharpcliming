@@ -10,7 +10,7 @@ for (int xloc=0; xloc < 3  ; xloc++  )
     int num =0;
     for (int yloc=0; yloc <3 ;yloc++ )
     {
-       num= Csharp[xloc,yloc];
+       num = Csharp[xloc,yloc];
        if( num == num2)
        Console.WriteLine(Csharp[xloc,yloc].ToString());
     }
