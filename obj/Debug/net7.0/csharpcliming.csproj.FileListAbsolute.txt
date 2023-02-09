@@ -1,0 +1,15 @@
+D:\csharpcliming\bin\Debug\net7.0\csharpcliming.exe
+D:\csharpcliming\bin\Debug\net7.0\csharpcliming.deps.json
+D:\csharpcliming\bin\Debug\net7.0\csharpcliming.runtimeconfig.json
+D:\csharpcliming\bin\Debug\net7.0\csharpcliming.dll
+D:\csharpcliming\bin\Debug\net7.0\csharpcliming.pdb
+D:\csharpcliming\obj\Debug\net7.0\csharpcliming.csproj.AssemblyReference.cache
+D:\csharpcliming\obj\Debug\net7.0\csharpcliming.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpcliming\obj\Debug\net7.0\csharpcliming.AssemblyInfoInputs.cache
+D:\csharpcliming\obj\Debug\net7.0\csharpcliming.AssemblyInfo.cs
+D:\csharpcliming\obj\Debug\net7.0\csharpcliming.csproj.CoreCompileInputs.cache
+D:\csharpcliming\obj\Debug\net7.0\csharpcliming.dll
+D:\csharpcliming\obj\Debug\net7.0\refint\csharpcliming.dll
+D:\csharpcliming\obj\Debug\net7.0\csharpcliming.pdb
+D:\csharpcliming\obj\Debug\net7.0\csharpcliming.genruntimeconfig.cache
+D:\csharpcliming\obj\Debug\net7.0\ref\csharpcliming.dll
